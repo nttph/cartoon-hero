@@ -2,6 +2,25 @@ body {
 	background-color: bisque;
 }
 
+.button {
+	background-color:  #f40303;
+	border: none;
+	color: white;
+	padding: 22px 14px;
+	text-align: right;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	border-radius: 20%;
+	transition-duration: 0,1;
+	box-shadow: ;
+}
+
+.button:hover {
+	background-color: lightgrey;
+	color: darkgrey;
+}
+
 .true mark {
 	background-color:  #27e20e ;
 	color: blue;
