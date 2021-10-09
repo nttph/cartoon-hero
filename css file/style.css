@@ -1,0 +1,63 @@
+body {
+	background-color: bisque;
+}
+
+.true mark {
+	background-color:  #27e20e ;
+	color: blue;
+}
+
+.false mark {
+	background-color: red;
+	color: blue;
+}
+
+h1 {
+	font-size: 40px;
+	color: green;
+}
+
+h2 {
+	font-size: 35px;
+	color:  #c422d1 ;
+}
+
+.big {
+	font-size: 75px;
+}
+
+.upc {
+ 	text-transform: uppercase;
+}
+
+.itc {
+	font-style: italic;
+}
+
+.small {
+	text-transform: lowercase;
+}
+
+.big.upc {
+	color: darkred;
+}
+
+.big.itc {
+	color:  #daf900 ;
+}
+
+.big.upc.itc {
+	color:  #071378 ;
+}
+
+.small.upc {
+	color:  #05bea2 ;
+}
+
+h1 span {
+	color:  #7915d1 ;
+}
+
+h2 span {
+	color:  #f85117 ;
+}
